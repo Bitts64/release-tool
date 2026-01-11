@@ -1,6 +1,6 @@
 {
   "type": "JavaScript",
-  "ci": "circleci",
+  "ci": "github",
   "slug": "twilio/release-tool",
   "env": {
     "GH_REF": "github.com/twilio/release-tool.git"
