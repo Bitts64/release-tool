@@ -1,7 +1,5 @@
 # release-tool
 
-[![NPM](https://img.shields.io/npm/v/twilio-release-tool.svg)](https://www.npmjs.com/package/twilio-release-tool) 
-
 release-tool is a tool for releasing software. It supports bumping version
 numbers in JavaScript projects out-of-the-box, but is otherwise generic enough
 to release any kind of software.
